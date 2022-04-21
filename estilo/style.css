@@ -3,12 +3,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 :root{
-    --cor0: #c5ebd6;
-    --cor1: #83e1ad;
-    --cor2: #3ddc84;
-    --cor3: #2fa866;
-    --cor4: #1a5c37;
-    --cor5: #063d1e;
+    --cor0: #A1A9C7;
+    --cor1: #4A5891;
+    --cor2: #63687A;
+    --cor3: #6579C7;
+    --cor4: #3A3D47;
+    --cor5: #3A3D75;
 
     --font-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
