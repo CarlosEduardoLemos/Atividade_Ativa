@@ -1,4 +1,7 @@
 # Pesquisa de Opinião Online - Site da Apple
+**Trabalho Acadêmico - Projeto para Avaliação na Faculdade**
+
+# Pesquisa de Opinião Online - Site da Apple
 
 Este repositório contém o código-fonte de um site de pesquisa de opinião online sobre o produto MacBook Pro 2022 da empresa Apple. O site foi criado como parte de um projeto acadêmico ou de desenvolvimento pessoal para demonstrar habilidades em desenvolvimento web e design de interfaces.
 
@@ -23,4 +26,6 @@ O objetivo deste site é simular uma pesquisa de opinião interativa em formato 
 
 ## Contribuições
 
-Este projeto foi desenvolvido com fins educativos e/ou pessoais. Não é um projeto de código aberto e não são esperadas contribuições externas. Sinta-se à vontade para fazer bifurcações (forks) deste repositório para fins de aprendizado e experimentação.
+Este projeto foi desenvolvido com fins educativos como parte de um trabalho avaliativo na faculdade. Não é um projeto de código aberto e não são esperadas contribuições externas. Sinta-se à vontade para fazer bifurcações (forks) deste repositório para fins de aprendizado e experimentação.
+
+Certifique-se de revisar o texto e ajustá-lo de acordo com o contexto e as diretrizes da sua faculdade. Isso ajudará a deixar claro o propósito e a natureza acadêmica do projeto.
